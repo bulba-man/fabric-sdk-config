@@ -1,0 +1,31 @@
+{
+  "name": "fabric-config",
+  "version": "1.0.0",
+  "description": "Package for creating and modifying Fabric SDK node",
+  "types": "./types/main.d.ts",
+  "dependencies": {
+    "fs-extra": "^6.0.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulba-man/fabric-sdk-config.git"
+  },
+  "keywords": [
+    "hyperledger",
+    "fabric",
+    "config",
+    "sdk",
+    "node",
+    "nodejs"
+  ],
+  "author": "Nikita Dmitrievich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bulba-man/fabric-sdk-config/issues"
+  },
+  "homepage": "https://github.com/bulba-man/fabric-sdk-config#readme"
+}
