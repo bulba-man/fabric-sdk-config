@@ -8,7 +8,7 @@ Package for creating and modifying Fabric SDK node
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save fabric-config
+$ npm install --save fabric-sdk-config
 ```
 
 ## Usage

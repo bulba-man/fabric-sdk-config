@@ -1,5 +1,5 @@
 {
-  "name": "fabric-config",
+  "name": "fabric-sdk-config",
   "version": "1.0.0",
   "description": "Package for creating and modifying Fabric SDK node",
   "types": "./types/main.d.ts",
@@ -22,7 +22,7 @@
     "node",
     "nodejs"
   ],
-  "author": "Nikita Dmitrievich",
+  "author": "Nikita Dmitrievich nikitadm@tut.by",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bulba-man/fabric-sdk-config/issues"
